@@ -1,4 +1,4 @@
-# Brute Force Attack Detection - Splunk SIEM 🔥
+# Brute Force Attack Detection - Splunk SIEM
 
 Project Overview
 
